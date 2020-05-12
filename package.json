@@ -5,10 +5,10 @@
   "main": "dist/vue-uploader.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/simple-uploader/vue-uploader.git"
+    "url": "https://github.com/afan0228/vue-uploader"
   },
-  "bugs": "https://github.com/simple-uploader/vue-uploader/issues",
-  "homepage": "https://github.com/simple-uploader/vue-uploader",
+  "bugs": "https://github.com/afan0228/vue-uploader/issues",
+  "homepage": "https://github.com/afan0228/vue-uploader",
   "author": "784481872@qq.com",
   "license": "MIT",
   "scripts": {
