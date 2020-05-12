@@ -1,4 +1,4 @@
-# vue-simple-uploader  [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] [![juejin likes][juejin-image]](juejin-url)
+# vue-simple-uploader  [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url]
 
 > 一个基于 [simple-uploader.js](https://github.com/simple-uploader/Uploader) 的 Vue 上传组件
 

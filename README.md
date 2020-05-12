@@ -1,5 +1,6 @@
-# vue-big-uploader  [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] [![juejin likes][juejin-image]](juejin-url)
+# vue-big-uploader  [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] 
 
+<!-- [![juejin likes][juejin-image]](juejin-url) -->
 > A Vue.js upload component powered by [simple-uploader.js](https://github.com/simple-uploader/Uploader)
 
 <!-- ![example](https://github.com/simple-uploader/vue-uploader/blob/master/example/simple-uploader.gif) -->
